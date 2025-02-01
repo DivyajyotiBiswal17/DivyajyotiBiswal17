@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭I have a strong foundation in Data Structures & Algorithms and currently exploring the AI/ML , Cybersecurity , Cloud computing and System Design .<br>☘️Currently working on building real world projects by diving deep into Python.<br>🤝I am looking for great resources and supportive companions to explore more.<br>💫All ready to move forward in my journey.
+🔭I have a strong foundation in Data Structures & Algorithms and currently exploring the AI/ML , Cybersecurity , Cloud computing and System Design .<br>☘️Currently working on building real world projects by diving deep into Python.<br>🤝I am looking for great resources and supportive companions to explore more.<br>✨All ready to move forward in my journey.
 
 
 ## 🌐 Socials:
